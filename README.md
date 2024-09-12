@@ -1,9 +1,8 @@
 ### Introduction
 
 - 👋 Hi, I’m Vinith
-- 👀 I’m interested in Video Games and Deep learning
-- 🌱 I’m currently learning Music Generation and Explainable AI
-- 💞️ I’m looking to collaborate on Any project related to machine learning or Data science
+- 👀 I’m interested in Video Games, Deep learning, Movies/Shows, Business Analysis, and Drinks
+- 💞️ I’m looking to collaborate on Any project related to Data science or review any business case.
 - 📗 Currently pursuing an MBA at Carroll School of Management.
 - 📫 How to reach me: vinithhazard@gmail.com  linkedin - https://www.linkedin.com/in/sai-vinith-ayapilla-521b331a5
 
